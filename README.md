@@ -1,5 +1,4 @@
 # netmap
-
 ## About
 Visual tool to see geographic locations for where network traffic is going.
 
@@ -24,6 +23,7 @@ To run the program:
 ``` shell
 python3 netmap.py /path/to/pcap/file
 ```
+![Screenshot of netmap running.](https://raw.githubusercontent.com/dewiseman/netmap/refs/heads/main/doc/netmap.png)
 
 ## Future Updates
 
@@ -32,5 +32,4 @@ python3 netmap.py /path/to/pcap/file
  - Plotting Improvements
  - API lookup conservation
 
-# netmap
-Visual tool to see geographically where network traffic is going.
+
